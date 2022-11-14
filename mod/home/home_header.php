@@ -1,3 +1,2 @@
 <?php
-    $html='mettre acceuil ici'
-?>
+$html = '<h1>Accueil</h1>';
